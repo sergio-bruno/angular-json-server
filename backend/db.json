@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "products": [
+      {
+        "id": 1,
+        "nome": "Caneta BIC Preta",
+        "preco": 5.89,
+        "observacao": "",
+        "ean": "",
+        "fornecedor": ""
+      },
+      {
+        "id": 2,
+        "nome": "Notebook Mac Pro",
+        "preco": 12000.89,
+        "observacao": "",
+        "ean": "",
+        "fornecedor": ""
+      },
+      {
+        "id": 3,
+        "nome": "Sansung S20+ Ultra",
+        "preco": "7520.89",
+        "observacao": "",
+        "ean": "",
+        "fornecedor": ""
+      }
+    ]
+}
